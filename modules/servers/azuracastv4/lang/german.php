@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'station_information' => 'Radioinformationen',
+    'access_information' => 'Zugangsdaten',
+    'station_name' => 'Sendername',
+    'slug' => 'Slug',
+    'frontend' => 'Frontend',
+    'public_page' => 'Öffentliche Seite',
+    'stream_port' => 'Streaming-Port',
+    'autodj_port' => 'AutoDJ-Port',
+    'max_bitrate' => 'Maximale Bitrate',
+    'max_listeners' => 'Maximale Hörer',
+    'status' => 'Status',
+    'disk_quota' => 'Speicherquote',
+    'online' => 'Online',
+    'offline' => 'Offline',
+    'frontend_admin' => 'Administration (Frontend)',
+    'frontend_source' => 'Quelle (Frontend)',
+    'frontend_relay' => 'Weiterleitung (Frontend)',
+    'dj_username' => 'Zugangsdaten (Benutzer)',
+    'dj_password' => 'Zugangsdaten (Passwort)',
+    'username' => 'Benutzer',
+    'password' => 'Passwort',
+    'direct_login' => 'AzuraCast-Panel öffnen',
+];

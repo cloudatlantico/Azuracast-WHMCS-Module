@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'station_information' => 'Informações da Rádio',
+    'access_information' => 'Informações de Acesso',
+    'station_name' => 'Nome da Estação',
+    'slug' => 'Slug',
+    'frontend' => 'Servidor de Transmissão',
+    'public_page' => 'Página Pública',
+    'stream_port' => 'Porta de Transmissão',
+    'autodj_port' => 'Porta AutoDJ',
+    'max_bitrate' => 'Bitrate Máximo',
+    'max_listeners' => 'Ouvintes Máximos',
+    'status' => 'Status',
+    'disk_quota' => 'Quota de Disco',
+    'online' => 'Online',
+    'offline' => 'Offline',
+    'frontend_admin' => 'Administração',
+    'frontend_source' => 'Fonte',
+    'frontend_relay' => 'Retransmissão',
+    'dj_username' => 'Usuário de Acesso',
+    'dj_password' => 'Senha de Acesso',
+    'username' => 'Usuário',
+    'password' => 'Senha',
+    'direct_login' => 'Acessar Painel do Servidor',
+];

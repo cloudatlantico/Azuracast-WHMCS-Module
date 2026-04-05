@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'station_information' => 'Informations de la Radio',
+    'access_information' => 'Informations d\'accès',
+    'station_name' => 'Nom de la Station',
+    'slug' => 'Slug',
+    'frontend' => 'Frontend',
+    'public_page' => 'Page Publique',
+    'stream_port' => 'Port de Diffusion',
+    'autodj_port' => 'Port AutoDJ',
+    'max_bitrate' => 'Débit Maximal',
+    'max_listeners' => 'Auditeurs Maximum',
+    'status' => 'Statut',
+    'disk_quota' => 'Quota Disque',
+    'online' => 'En ligne',
+    'offline' => 'Hors ligne',
+    'frontend_admin' => 'Administration (Frontend)',
+    'frontend_source' => 'Source (Frontend)',
+    'frontend_relay' => 'Relais (Frontend)',
+    'dj_username' => 'Identifiant (Utilisateur)',
+    'dj_password' => 'Identifiant (Mot de passe)',
+    'username' => 'Utilisateur',
+    'password' => 'Mot de passe',
+    'direct_login' => 'Ouvrir le panneau AzuraCast',
+];

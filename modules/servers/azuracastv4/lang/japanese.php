@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'station_information' => 'ラジオ情報',
+    'access_information' => 'アクセス情報',
+    'station_name' => 'ステーション名',
+    'slug' => 'スラッグ',
+    'frontend' => 'フロントエンド',
+    'public_page' => '公開ページ',
+    'stream_port' => '配信ポート',
+    'autodj_port' => 'AutoDJポート',
+    'max_bitrate' => '最大ビットレート',
+    'max_listeners' => '最大リスナー数',
+    'status' => 'ステータス',
+    'disk_quota' => 'ディスク容量',
+    'online' => 'オンライン',
+    'offline' => 'オフライン',
+    'frontend_admin' => '管理者 (Frontend)',
+    'frontend_source' => 'ソース (Frontend)',
+    'frontend_relay' => 'リレー (Frontend)',
+    'dj_username' => '認証情報 (ユーザー)',
+    'dj_password' => '認証情報 (パスワード)',
+    'username' => 'ユーザー',
+    'password' => 'パスワード',
+    'direct_login' => 'AzuraCast パネルを開く',
+];

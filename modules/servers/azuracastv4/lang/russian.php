@@ -1,0 +1,26 @@
+<?php
+
+return [
+    'station_information' => 'Информация о радио',
+    'access_information' => 'Данные доступа',
+    'station_name' => 'Название станции',
+    'slug' => 'Slug',
+    'frontend' => 'Фронтенд',
+    'public_page' => 'Публичная страница',
+    'stream_port' => 'Порт вещания',
+    'autodj_port' => 'Порт AutoDJ',
+    'max_bitrate' => 'Макс. битрейт',
+    'max_listeners' => 'Макс. слушателей',
+    'status' => 'Статус',
+    'disk_quota' => 'Дисковая квота',
+    'online' => 'Онлайн',
+    'offline' => 'Оффлайн',
+    'frontend_admin' => 'Администрирование (Frontend)',
+    'frontend_source' => 'Источник (Frontend)',
+    'frontend_relay' => 'Ретрансляция (Frontend)',
+    'dj_username' => 'Учётные данные (Логин)',
+    'dj_password' => 'Учётные данные (Пароль)',
+    'username' => 'Логин',
+    'password' => 'Пароль',
+    'direct_login' => 'Открыть панель AzuraCast',
+];

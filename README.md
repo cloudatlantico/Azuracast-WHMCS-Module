@@ -1,6 +1,8 @@
-# Módulo de Provisionamento WHMCS - Azuracast V4
+# Módulo Azuracast para WHMCS - Gratís
 
 Este repositório contém um módulo de provisionamento para WHMCS chamado **Azuracast V4**, preparado para integrar com a API do Azuracast.
+O uso do módulo é gratuito para sempre! O intuito foi criar um módulo que viesse atender o básico vista que os encontrados pela interner não funcionavam mais.
+Baixe o módulo, descompacte na pasta raiz do seu WHMCS em /modules/servers onde a pasta Azuracast será criada e ele já pode ser usado.
 
 ## Recursos implementados
 
